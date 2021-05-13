@@ -1,0 +1,6 @@
+C:\dev\Krkavec\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\dev\Krkavec\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\dev\Krkavec\DataLayer\bin\Debug\DataLayer.dll
+C:\dev\Krkavec\DataLayer\bin\Debug\DataLayer.pdb
+C:\dev\Krkavec\DataLayer\obj\Debug\DataLayer.dll
+C:\dev\Krkavec\DataLayer\obj\Debug\DataLayer.pdb

@@ -1,0 +1,17 @@
+C:\dev\Krkavec\Krkavec\bin\Debug\Krkavec.exe.config
+C:\dev\Krkavec\Krkavec\bin\Debug\Krkavec.exe
+C:\dev\Krkavec\Krkavec\bin\Debug\Krkavec.pdb
+C:\dev\Krkavec\Krkavec\obj\Debug\Krkavec.csprojAssemblyReference.cache
+C:\dev\Krkavec\Krkavec\obj\Debug\Krkavec.Form1.resources
+C:\dev\Krkavec\Krkavec\obj\Debug\Krkavec.Properties.Resources.resources
+C:\dev\Krkavec\Krkavec\obj\Debug\Krkavec.csproj.GenerateResource.cache
+C:\dev\Krkavec\Krkavec\obj\Debug\Krkavec.csproj.CoreCompileInputs.cache
+C:\dev\Krkavec\Krkavec\obj\Debug\Krkavec.exe
+C:\dev\Krkavec\Krkavec\obj\Debug\Krkavec.pdb
+C:\dev\Krkavec\Krkavec\obj\Debug\Krkavec.Menu.resources
+C:\dev\Krkavec\Krkavec\obj\Debug\Krkavec.PrihlaseniDoTurnaje.resources
+C:\dev\Krkavec\Krkavec\obj\Debug\Krkavec.Pridat.resources
+C:\dev\Krkavec\Krkavec\obj\Debug\Krkavec.Upravit.resources
+C:\dev\Krkavec\Krkavec\bin\Debug\DataLayer.dll
+C:\dev\Krkavec\Krkavec\bin\Debug\DataLayer.pdb
+C:\dev\Krkavec\Krkavec\obj\Debug\Krkavec.csproj.CopyComplete
